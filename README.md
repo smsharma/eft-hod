@@ -1,3 +1,5 @@
+# Simulation-based priors connecting EFT and HOD models
+
 ## Install
 
 Install from `requirements.txt` or simply do
